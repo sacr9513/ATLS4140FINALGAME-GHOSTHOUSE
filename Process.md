@@ -3,6 +3,8 @@ The GitHub Repository for our ATLS4140 Final Project
 
 
 Process 11/9/20
+
+
 UI Planning. We want to go simple, and make sure the layout is easy to read and easy to use. 
 
 Flashlight battery
