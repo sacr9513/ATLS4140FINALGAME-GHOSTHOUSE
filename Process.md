@@ -8,11 +8,17 @@ Process 11/9/20
 UI Planning. We want to go simple, and make sure the layout is easy to read and easy to use. 
 
 Flashlight battery
+
 Quest Log
+
 Pause menu 
+
 	Inventory of notes
+	
 	Settings
+	
 	Quit (Save)
+	
 
 
 Check the individually uploaded sketches for layouts on this.
