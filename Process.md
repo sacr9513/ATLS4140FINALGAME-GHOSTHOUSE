@@ -12,7 +12,12 @@ Pause menu
 	Settings
 	Quit (Save)
 
-Check the individually uploaded sketches for layouts on this. 
+
+Check the individually uploaded sketches for layouts on this.
+
+https://github.com/sacr9513/ATLS4140FINALGAME-GHOSTHOUSE/blob/main/UI%20Screen.png
+https://github.com/sacr9513/ATLS4140FINALGAME-GHOSTHOUSE/blob/main/UI%20Screen.png
+ 
 
 
 
