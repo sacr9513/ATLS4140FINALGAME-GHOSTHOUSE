@@ -1,11 +1,14 @@
 # ATLS4140FINALGAME-GHOSTHOUSE
 The GitHub Repository for our ATLS4140 Final Project
 
+Process 11/11/2020
+Nailed down part of the story and started to work on getting meshes and textures into the game. Locomotion system and character done. 
 
 Process 11/9/20
 
 
-UI Planning. We want to go simple, and make sure the layout is easy to read and easy to use. 
+UI Planning. We want to go simple, and make sure the layout is easy to read and easy to use. We plan on it being a 'one shot kill' type game, so no health. We want 
+to communicate mostly the inventory and story line will will be facilitated through the pick up of 'notes' that tell you about the character past. 
 
 Flashlight battery
 
