@@ -1,6 +1,18 @@
 # ATLS4140FINALGAME-GHOSTHOUSE
 The GitHub Repository for our ATLS4140 Final Project
 
+Game Sound Planning: 
+Process 11/18/20
+We want to do mostly ambient noises for the background- probably a storm sound loop. 
+Other objects and enemies will have specific noises. 
+
+Phasing droning noise for phasing through the wall,	http://bbcsfx.acropolis.org.uk/assets/07014164.wav	http://soundbible.com/grab.php?id=1351&type=mp3			
+Spooky Ghost noises	http://soundbible.com/grab.php?id=1741&type=mp3	 			
+Footsteps	https://www.premiumbeat.com/blog/40-free-footstep-foley-sound-effects/	 			
+Ambient background soundtrack- storm, windy etc.	https://www.youtube.com/watch?v=aDfZ6STAfqA	 			
+Flashlight turning on sound	http://soundbible.com/grab.php?id=1705&type=mp3	 			
+Electrical fizz sound when low on batteries	http://soundbible.com/grab.php?id=1295&type=mp3	 			
+
 Process 11/11/2020
 Nailed down part of the story and started to work on getting meshes and textures into the game. Locomotion system and character done. 
 
